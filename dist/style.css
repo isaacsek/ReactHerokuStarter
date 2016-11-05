@@ -1,0 +1,9 @@
+.error {
+  color: red;
+}
+
+#container {
+  width: 500px;
+  height: 550px;
+  background-color: orange;
+}
