@@ -16,7 +16,6 @@ ReactDOM.render(
     <Router history={browserHistory}>
       <Route path="/" component={App}>
         <IndexRoute component={Welcome} />
-      {/*}<Route path="signin" component={Signin} />*/}
       </Route>
     </Router>
   , document.querySelector('.container'));
